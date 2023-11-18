@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+
+h1{
+    padding: 0.5rem;
+}
+.title{
+        padding: 1rem;
+    border-radius: 1rem;
+ margin: 4rem;
+ background-color:rgb(59, 57, 57) ; 
+ color: aliceblue;  
+}
+
+.image{
+    height: 40rem;
+    width: 40rem;
+     margin: 4rem;
+
+}
